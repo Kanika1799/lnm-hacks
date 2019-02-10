@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="297mm" height="210mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 36.357421875 20400 20400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+   
+    .fil1 {fill:#cdb668}
+    .fil0 {fill:#2e3131}
+   
+  </style>
+  </defs>
+  <g id="" transform="matrix(1, 0, 0, 1, -4885.196289, -253.776443)">
+    <path class="fil0" d="M7871 3308c3967,-3977 10406,-3985 14383,-18l-14364 14401c-3977,-3967 -3985,-10406 -18,-14383z"/>
+    <path class="fil1" d="M22254 3289c3977,3967 3985,10406 18,14383 -3967,3977 -10406,3985 -14383,18l14364 -14401z"/>
+  </g>
+</svg>

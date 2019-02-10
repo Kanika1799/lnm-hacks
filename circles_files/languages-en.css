@@ -1,0 +1,17 @@
+@media (min-width: 992px){
+	.bonus_title{
+		font-size: 19px;
+		margin-right: -12px;
+	}
+	.bonus_img{
+		margin: -2px 0 0 4px;	
+	}
+}
+@media (min-width: 1400px) {
+  .footer_bottom_social {
+		margin-left: 2px;
+  }
+}
+.steam_status{
+	margin-top: 15px;
+}

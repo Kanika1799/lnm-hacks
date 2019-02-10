@@ -1,0 +1,3204 @@
+body{
+  background: #000;
+}
+.benefits_item .item_name {
+  color: #e6e6e6;
+}
+.mobile_menu_container {
+  background: #2f2f30;
+}
+.price_title {
+  color: #979696;
+}
+.balance_header_add>svg {
+  fill: #cec29d;
+}
+.subscribe_button{
+  color: #000;
+}
+.transactions_add .balance_currency_container{
+  color: #fff;
+}
+.personal_content::-webkit-scrollbar-thumb{
+  background: #decd93;
+}
+.price_number{
+  color: #a19aa6;
+}
+.personal_price_hint{
+  color: #decd93;
+}
+.commision_overpay_sell_mode {
+  color: #a19aa6;
+}
+.commision_overpay_sell_mode .icon_information{
+  fill: #a19aa6;
+}
+.price_number.active {
+  color: #a479bc;
+}
+.price_number.active .svg_icon_zevs{
+  fill: #a479bc;
+}
+.personal_skin_itemid_screen svg{
+  fill: #fff;
+}
+.skin_list_title{
+  color: #fff;
+}
+.personal_skin_date_text{
+  color: #decd93;
+  fill: #decd93;
+}
+.personal_price_container input{
+  color: #1a1b1e
+}
+.personal_price_container.show > .personal_price_input_container{
+  color: #1a1b1e;
+}
+.personal_price_container.show svg{
+  fill: #3f4043;
+}
+.personal_skin_name_text{
+  color: #decd93;
+}
+.personal_skin_method svg{
+  fill: #e6e6e6;
+}
+.personal_skin_date_listing span:nth-child(2){
+  color: #e6e6e6;
+}
+.personal_send_trade .filter_more_dash{
+  background: #decd93;
+}
+.personal_send_trade{
+  color: #decd93;
+  fill: #decd93;
+}
+.personal_skin_itemid_screen{
+  color: #fff;
+}
+.personal_skin_itemid_text span{
+  color: #fff;
+}
+.personal_trade_id span{
+  color: #fff;
+}
+.personal_status span{
+  color: #fff;
+}
+.personal_trade_id svg{
+  fill: #fff;
+}
+.personal_skins_text{
+  color: #decd93;
+  fill: #decd93;
+}
+.personal_row_offer{
+  background: rgba(62,62,62);
+}
+.personal_row_offer_container{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2); 
+}
+.personal_row{
+  color: rgba(255, 255, 255, 0.8);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2); 
+}
+.personal_menu_item svg{
+  fill: #decd93;
+}
+.personal_menu_status_item.active{
+  color: rgba(255, 255, 255, 0.8);
+}
+.personal_menu_status_item:hover{
+  color: rgba(255, 255, 255, 0.8);
+}
+.personal_menu_item:hover{
+  color: #decd93;
+}
+.personal_menu_status{
+  background: rgb(84, 84, 84);
+  color: rgba(221, 221, 221, 0.7);
+}
+.personal_menu_item.active{
+  color: #decd93;
+}
+.personal_menu_item{
+  color: rgba(222, 205, 147, .6);
+}
+.personal_menu_left > .personal_menu_item:nth-child(2):before{
+  background: rgba(107, 95, 114, .2);
+}
+.personal_menu{
+  background: linear-gradient(to right, rgba(147, 124, 96, 0.08) 0%,rgba(214, 173, 115, 0.08) 100%);
+}
+.personal_reload{
+  fill: #decd93;
+}
+.personal_title_text{
+  color: rgba(255, 255, 255, 0.9);
+}
+.personal_title_text p{
+  color: rgba(255, 255, 255, 0.5);
+}
+.personal_title_button{
+  color: #d4c695;
+  border: 2px solid #d4c695;
+}
+.personal_title_button:hover{
+  color: #e8d07c;
+  border: 2px solid #e8d07c;
+}
+.personal_input input::placeholder{
+  color: rgba(255,255,255, .7);
+}
+.personal_input input:focus{
+  color: rgba(255,255,255, 1);
+  border-color:rgba(255, 255, 255, .7);
+}
+.personal_input input::placeholder:focus{
+  color: rgba(255,255,255, 1);
+}
+.personal_input input{
+  color: #fff;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
+.personal_input div{
+  color: #fff;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
+.personal_input p{
+  color: rgba(255, 255, 255, 0.5);
+}
+.personal_info p{
+  color: #fff;
+}
+.screen_text_pink{
+  display: none;
+}
+.screen_text_orange{
+  display: none;
+}
+.screen_text_blue{
+  display: none;
+}
+.screen_subtext_dark {
+  color: #ddcc92;
+  font-size: 60px;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  display: block;
+  margin-left: 3px;
+}
+.screen_subtext_blue{
+  display: none;
+}
+.screen_subtext_pink{
+  display: none;
+}
+.screen_subtext_orange{
+  display: none;
+}
+.get_inspect + .circleG_all .circleG{
+  background-color: rgb(255,255,255);
+}
+.screen_inscription_dark{
+  position: absolute;
+  margin: -36px 20px 0px -57px;
+  font-size: 19px;
+  transform: rotate(-90deg);
+}
+.screen_inscription_dark:after {
+  content: '';
+  position: absolute;
+  width: 70px;
+  height: 2px;
+  background: #9f9c9b;
+  left: 111%;
+  top: 50%;
+}
+.screen_inscription_dark::before{
+  content: '';
+  position: absolute;
+  width: 70px;
+  height: 2px;
+  background: #9f9c9b;
+  right: 109%;
+  top: 50%;
+}
+.screen_inscription_blue{
+  display: none;
+}
+.screen_inscription_pink{
+  display: none;
+}
+.screen_inscription_orange{
+  display: none;
+}
+.circleG {
+  background-color: #fff;
+}
+.screen {
+  background: url(../../images/ak47-bacg.png) 50% 100% no-repeat;
+}
+.svg_youtube{
+  fill: #9dc8c1;
+}
+.seen_title{
+  color: #88afa9;
+}
+.seen_title_svg{
+  fill: #9dc8c1;
+}
+.screen_title_dark {
+  font-size: 60px;
+  font-weight: 800;
+  text-transform: uppercase;
+  /* margin-top: -9px; */
+  display: block;
+  /* margin-left: 3px; */
+}
+.screen_title_dark span{
+  color: #ddcc92;
+}
+.screen_title_orange{
+  display: none;
+}
+.screen_title_pink{
+  display: none;
+}
+.screen_title_blue{
+  display: none;
+}
+.screen_delimiter{
+  background: linear-gradient(to right, #e7dbb3 0%, #e7dbb3 47.5%, #81dbcd 47.6%, #81dbcd 68.3%, #5798b4 68.4%, #5798b4 100%);
+}
+@keyframes l {
+  50% {
+    background-color: #000;
+  }
+}
+.sell_mode_title{
+  color: #8f908b;
+  fill: #8f908b;
+}
+.header_user_skin{
+  color: #e6e6e6;
+}
+.market_default_price{
+  color: #fdfcfd;
+}
+.waiting_first_trade svg{
+  fill: #fdfcfd;
+}
+.subscribe_container input{
+  background-color: #444851;
+  color: #e6e6e6;
+}
+.text_conv {
+  color: #f0d884;
+}
+.defoult_popup_skin_text:nth-child(3){
+  color: #d4d3d3;
+}
+.header_panel_footer span {
+  color: #decd93;
+}
+.js_swipe_title .icon_arrow_left {
+  fill: #aea175;
+}
+.search_sticker_mobile svg {
+  fill: #e6e6e6;
+}
+.search_sticker_mobile.active svg{
+  fill: #fff;
+}
+.trade_btn_wrap div.btn_active_trade + .buttons_inputs_trade 
+.buttons_inputs_trade_item:hover{
+  opacity: 1;
+  background: rgba(255,255,255, .3);
+  box-shadow: 3px 5px 9px 0px rgba(0, 0, 0, 0.05);
+}
+.mobile_button {
+  background: hsla(46,28%,59%,.75);
+  box-shadow: -3px 0 8px 0 hsla(46,27%,58%,.78);
+}
+.trade_lock_list_container{
+  background: #2f2f30;
+  color: #cecece;
+}
+.commision_overpay_sell_mode.active {
+  color: #dddddd;
+}
+.commision_overpay_sell_mode.active .commision_overpay_sell_price {
+  color: #decd93;
+}
+.market_price_title.inactive{
+  opacity: 1;
+  color: #e4e4e4;
+}
+.commision_overpay_sell_mode.active .icon_information{
+  fill: #decd93;
+}
+.search_subtitle {
+  color: #e5e5e5;
+}
+.search_title {
+  color: #decd93;
+}
+.pink_word{
+  color: #decd93;
+  background-color: #675f49;
+}
+/*Authenticator*/
+.authenticator_title{
+  color: #e6e6e6;
+}
+.authenticator_foot{
+  color: #e6e6e6;
+}
+.junction_arrow {
+  fill: wheat;
+}
+/**/
+.lock_confirm_container{
+  background: #282c35;
+}
+.lock_confirm_text svg{
+  fill: #decd93;
+}
+.lock_confirm_text div{
+  color: #dedede;
+}
+.lock_confirm_ask .lock_confirm_ask_text{
+  color: #dfe0dc;
+}
+.lock_confirm_ask .filter_more_dash{
+  background: #fff;
+}
+.modal_personal[personal-mode=transactions] .personal_menu_item[data-personal-menu=transactions]{
+  color: #decd93;
+}
+.modal_personal[personal-mode=purchases] .personal_menu_item[data-personal-menu=purchases]{
+  color: #decd93;
+}
+.personal_menu_item_right{
+  color: #decd93;
+}
+.personal_skin_itemid_screen:hover{
+  color: #9c7787;
+}
+.personal_skin_itemid_screen:hover svg{
+  fill: #9c7787;
+}
+.personal_skin_itemid_screen:hover .filter_more_dash{
+  background: #9c7787;
+}
+.waiting_attention_text span{
+  color: #decd93;
+  border-bottom: 1px solid #decd93;
+}
+.waiting_attention_text{
+  color: #e6e6e6;
+}
+.modal_trade_wait{
+  color: rgba(255,255,255, .4);
+}
+.waiting_first_trade{
+  color: #fff;
+  background: linear-gradient(to right, #9a916f  0%,#7d765d  100%);
+}
+.waiting_attention_title svg{
+  fill: #decd93;
+}
+.waiting_attention_title{
+  color: #decd93;
+}
+.modal_trade_row{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.modal_bot_number{
+  color: #fff;
+}
+.modal_trade_col>.success>.path {
+  stroke: #0ea55f;
+}
+.modal_trade_col>.fail {
+  stroke: #eb474c;
+}
+.modal_trade_col>.active {
+  fill: #718bb7;
+}
+.screen_orange_hyper{
+  display: none;
+}
+.seen_title::after{
+  background-color: #576f6c;
+}
+.modal_trade_col_button{
+  color: #2b2a28;
+  background: linear-gradient(to right, #afafaf 0%,#929292 100%);
+  box-shadow: 2px 3px 7px 0px rgba(0, 0, 0, 0.15); 
+}
+.modal_trade_col_button.act{
+  background: linear-gradient(to right, #059d86 0%, #2e7675 100%);
+}
+.modal_trade_main_container::-webkit-scrollbar-thumb{
+  background: #4c4f50;
+}
+.editionalInfo {
+  color: #e6e6e6;
+}
+.editionalInfo>span {
+  color: #ffffff;
+}
+.mobile_button_line {
+  background: hsla(47,26%,70%,.8);
+}
+.l {
+  fill: #fff;
+  opacity: .24;
+}
+.benefits_item {
+  color: #9f9f9f;
+}
+.more_info svg{
+  fill: #fff
+}
+.hold{
+  color: #fff;
+  background: rgba(243, 144, 0, 0.7);
+}
+.hold.act{
+  background: #6e9c18;
+}
+.list_menu.filter_applied .list_menu_current {
+  border-bottom: 1px solid #e6e6e6;
+  color: #e6e6e6;
+}
+.multi_trade_container.active .multi_trade_text{
+  border-bottom: 1px solid #e6e6e6;
+  color: #e6e6e6;
+}
+.multi_trade_container.active svg{
+  fill: #e6e6e6;
+}
+.price_subtitle{
+  color: #fff;
+}
+.inventory_error {
+  color: #e6e6e6;
+}
+.inventory_error>div {
+  background-color: #545457;
+}
+.inventory_error span {
+  color: #decd93;
+  border-bottom: 1px solid #decd93;
+}
+.subscribe_text {
+  color: #e6e6e6;
+}
+.block_title_keys_additional {
+  background: #495053;
+}
+.block_title_keys_additional_text {
+  color: #e6e6e6;
+}
+.seen_title a{
+  color: #9dc8c1;
+}
+.rep a,.repSt a,.repStStik a {
+  border-bottom: 2px solid hsla(0,0%,100%,.5);
+  color: #fff;
+}
+.additional_float_container {
+  background: #292a2d;
+}
+.swipe_options_title .select{
+  color: #aea175;
+} 
+.swipe_options_title a{
+  fill: #aea175;
+}
+.additional_float_close {
+  fill: #7f7f7f;
+}
+.right_click_img {
+  fill: hsla(0,0%,100%,.6);
+}
+.stickers_drop .block_menu_list a {
+  color: #e6e6e6;
+}
+.block_panel .block_menu.showed>.block_menu_current,.stickers_drop .block_menu.is_active>.block_menu_current {
+  background: #5a5f62;
+}
+.default_popup_background {
+  background-color: #5d6365;
+}
+.default_popup_background>svg {
+  fill: #decd93;
+}
+.default_popup_background>div {
+  color: #fff;
+}
+.default_popup_background>div>a {
+  color: #e6e6e6;
+  text-decoration: none;
+}
+.about_screen {
+  background: url(../../images/about-screen_dark.png?v=11?v=11) 50% 100% no-repeat;
+  background-size: cover;
+}
+.about_subtitle {
+  color: #dcd9d9;
+}
+.buttons_inputs_list>svg {
+  fill: #1b1b1e;
+}
+.faq_link>.btn>svg {
+  fill: #1b1b1e;
+}
+.roll_panel_btn_showed {
+  background: linear-gradient(90deg,#fff 0,#fff);
+}
+.reviews_title {
+  color: #e6e6e6;
+}
+.reviews_subtitle {
+  color: #cfcfcf;
+}
+.stats_title {
+  color: #fff;
+}
+.stats_text {
+  color: #c0c3cf;
+}
+.transactions_error {
+  color: #e6e6e6;
+}
+.trade_link_info_icon {
+  fill: url(#GradientInfoDark);
+}
+.trade_link_info_text {
+  color: #e6e6e6;
+}
+.trade_link_close {
+  fill: #9f9f9f;
+}
+.steps_title {
+  color: #e6e6e6;
+}
+.c span {
+  color: #fff;
+}
+.steps_text {
+  color: #cecece;
+}
+.hint_text>span {
+  border-bottom: 2px solid #decd93;
+  color: #decd93;
+  transition: color .2s ease,border .2s ease;
+}
+.st {
+  fill: #d5cd99;
+}
+.im_min,.im_min_key,.im_min_st,.im_min_ws,.im_min_wst {
+  color: #e6e6e6;
+}
+.fil2 {
+  fill: #24262a;
+}
+.btn:before {
+  background: hsla(0,0%,100%,.15);
+  display: none;
+}
+.ip_stattrak svg {
+  fill: #d5cd99;
+}
+.steps_item .item_number>span {
+  background: #161719;
+}
+.swipe_options_title {
+  color: #e4e4e4
+}
+.reviews_thumbs {
+  background: #454648;
+}
+.buttons .btn {
+  fill: #1a1b1e;
+}
+.filter_checkbox_switch i:before {
+  background: #dededb;
+}
+.steps_item .item_text {
+  color: #d8d7d7;
+}
+.reviews_thumbs:before {
+  border-bottom: 10px solid #454648;
+}
+.item {
+  background: hsla(0,0%,100%,.12);
+  box-shadow: 2px 3px 12px 0 rgba(0,0,0,.1);
+}
+.item.fav {
+  background: hsla(0,0%,100%,.36);
+}
+.f_s {
+  fill: #c5c5c5;
+}
+@media (min-width:600px) {
+  .f_s.act,.f_s:hover {
+    fill: url(#GradientStatsDark);
+  }
+  .f1>svg {
+    fill: #c5c5c5;
+  }
+  .f1>svg.act,.f1>svg:hover {
+    fill: url(#GradientStatsDark);
+  }
+}
+.f3>svg.act {
+  fill: url(#GradientStatsDark);
+}
+.favorites_container>svg {
+  fill: #d5d5d5;
+}
+.favorites_container.act>svg,.favorites_container.hover>svg {
+  fill: url(#GradientStatsDark);
+}
+.transactions_col.active:nth-child(odd) {
+  color: #e6e6e6;
+}
+.transactions_col:nth-child(odd) {
+  color: #cfcfcf;
+}
+.transactions_col:nth-child(2n) {
+  background-color: #6b5f72;
+}
+.transactions_add_text {
+  color: #e6e6e6;
+}
+.transactions_row_text_status>span:first-child {
+  color: #cbcccc;
+}
+.transactions_add_text>span {
+  color: #cfcfcf;
+}
+.transactions_add>svg {
+  fill: #cfcfcf;
+}
+.icon_arrow_down_reviews {
+  fill: #e6e6e6;
+}
+.inspect_link_text {
+  color: #cfcfcf;
+}
+.inspect_link_text>span {
+  color: #fff;
+}
+.inspect_link_result_name {
+  color: #cfcfcf;
+}
+.inspect_link_result_exterior {
+  color: #bcae7e;
+}
+.buttons_inputs_list {
+  color: #1a1b1e;
+}
+.transactions_row_text_header,.transactions_row_text_status {
+  color: #fff;
+}
+.transactions_row_data,.transactions_row_text_header>span {
+  color: #cbcccc;
+}
+.transactions_row_step>span {
+  color: #fff;
+}
+.transactions_row_step {
+  color: #cbcccc;
+}
+.transactions_row_text_dot.fail {
+  background-color: #bd6c81;
+}
+.transactions_row_text_dot.waiting {
+  background-color: #bdbc6c;
+}
+.dot {
+  background: hsla(0,0%,100%,.5);
+}
+.buttons_inputs {
+  background: linear-gradient(270deg,#e2d5a4 0,#d7d0bb);
+}
+.trade_link_link a {
+  border: 2px solid #9f9f9f;
+  color: #9f9f9f;
+}
+.bonus_title>div {
+  color: #e6e6e6;
+}
+.filter_checkbox a.is_active {
+  color: #decd93;
+  fill: #decd93;
+  opacity: 1;
+}
+.block_panel .block_menu_drop {
+  background: #5a5f62;
+}
+.block_menu.is_active>.block_menu_current {
+  background: #495053;
+}
+.filter_checkbox_drop {
+  background: #2f2f30;
+}
+.flag_rare {
+  fill: #decd93;
+}
+.filter_checkbox a {
+  color: #cfcfcf;
+  fill: #cfcfcf;
+  opacity: 1;
+}
+.filter_checkbox_drop a {
+  border: 2px solid #cfcfcf;
+  color: #cfcfcf;
+}
+.filter_checkbox_drop a.is_active {
+  border-color: #decd93;
+  color: #decd93;
+}
+.sticker_prev {
+  fill: #cfcfcf;
+}
+.sticker_next {
+  fill: #cfcfcf;
+}
+.bots_col .bots_btn_v2 {
+  background: linear-gradient(90deg,#99b1ad 0,#7d9591);
+}
+.sale_payment:before{
+  background: linear-gradient(to bottom,rgba(255,255,255, .1) 0%,rgba(255,255,255, .01) 100%);
+}
+.faq_subtitle {
+  color: #cfcfcf;
+}
+.faq_item .item_title a {
+  color: #e6e6e6;
+  fill: #e6e6e6;
+}
+.faq_item .item_text {
+  color: #cfcfcf;
+}
+.sale_container {
+  background: url(../../images/sale_img_dark.png?v=4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.price_input input {
+  color: #1a1b1e;
+}
+.fil1 {
+  fill: #161719;
+}
+.trade_link_info_btn a {
+  border: 2px solid #9f9f9f;
+  color: #9f9f9f;
+  fill: #9f9f9f;
+}
+.steps_item .item_number {
+  background: #bab5bd;
+  color: #bab5bd;
+}
+.close_step_svg {
+  fill: #9f9f9f;
+}
+.list_menu.opened .list_menu_current {
+  background-color: #545457;
+}
+.bonus_img {
+  fill: #fff;
+}
+.list_menu_list {
+  color: #e6e6e6;
+}
+.bots_col>.btn:before {
+  background: rgba(0,0,0,.3);
+  display: none;
+}
+.bots_content::-webkit-scrollbar {
+  background: #3b3e42;
+}
+.bots_content::-webkit-scrollbar-thumb {
+  background: #958c6a;
+}
+.bots_content::-webkit-scrollbar-thumb:window-inactive {
+  background: #505156;
+}
+.modal {
+  background: #333538;
+}
+.modal_close {
+  fill: #9f9f9f;
+}
+.conv_button svg {
+  fill: #9f9f9f;
+}
+.list_menu_dropdown {
+  background: #545457;
+}
+.block_panel .block_search_field {
+  background: #e6e6e6;
+  color: #212629;
+}
+.block_panel .block_search_btn {
+  fill: #2b3134;
+}
+.block_panel .block_search_field::-webkit-input-placeholder {
+  color: #212629;
+}
+.payment_rus_contaner > svg{
+  fill: #e6e6e6;
+}
+.stickers_drop .block_search {
+  background-color: #e6e6e6;
+}
+.steps_item .item_number:before {
+  border: 3px solid #fff;
+  opacity: .08;
+}
+.gradient_line {
+  background: linear-gradient(90deg,#618b88 0,#82855d);
+}
+.reviews_item .item_text:after,.reviews_item .item_text:before {
+  background: url(../../images/quotes_dark.svg) 50% 50% no-repeat;
+}
+.reviews_item .item_name .text_gradient {
+  background: -webkit-linear-gradient(right,#bfb180,#b0a376);
+}
+.waiting_text:after,.waiting_text:before {
+  background: url(../../images/quotes_dark.svg) 50% 50% no-repeat;
+}
+.item_rating li.is_active svg {
+  fill: url(#GradientStatsDark);
+}
+.reviews_item .item_text {
+  color: #e6e6e6;
+}
+.stats_item .item_icon svg {
+  fill: url(#GradientStatsDark);
+}
+.odometer_digit_wrapper {
+  color: #cebe89;
+}
+.reviews_subtitle>a {
+  color: #d99b3d;
+}
+.modal_subtitle>a {
+  color: #decd93;
+}
+.scam_modal_content>a {
+  color: #decd93;
+}
+.scam_modal_content>a>span{
+  border-bottom: 1px solid hsla(46,53%,72%,.6);
+}
+.modal_subtitle>a>span {
+  border-bottom: 1px solid hsla(46,53%,72%,.6);
+}
+.steam_status {
+  color: #e6e6e6;
+}
+.steam_status_background_dot {
+  background: hsla(0,0%,100%,.08);
+}
+.modal_subtitle>svg {
+  fill: #cfcfcf;
+}
+.block_info_steps .step-label {
+  color: #decd93;
+}
+.comment_rating>a.is_active>svg {
+  fill: url(#GradientStatsDark);
+}
+.default_popup {
+  background: linear-gradient(0deg,#decd93 0,#ac9f74);
+}
+.title {
+  color: #decd93;
+}
+.additional_float_main_container.filter_applied .price_title_dot,
+.list_menu.filter_applied .list_menu_current>.list_menu_current_dot,
+.filter_price.filter_applied .price_title_dot {
+  background: #a6965a;
+}
+.roll_panel_text>span>svg {
+  fill: #decd93;
+}
+.list_menu_type_all a.showed {
+  color: #decd93;
+}
+.inventory_error {
+  background: linear-gradient(90deg,rgba(202,255,251,.8) 0,rgba(251,255,205,.8));
+}
+.steps_item.is_active .steps_dash {
+  background: linear-gradient(90deg,#decd93 0,#b2a57a);
+}
+.block_info_delimiter {
+  background-color: hsla(0,0%,81%,.3);
+  opacity: .3;
+}
+.steps_dash {
+  background-color: #bfc3cf;
+  box-shadow: 2px 3px 6px 0 rgba(0,0,0,.25);
+}
+.header_drop.is_show .currency_current {
+  color: #decd93;
+  fill: #decd93;
+}
+.steps_dash.is_active {
+  background: linear-gradient(90deg,#decd93 0,#b2a57a);
+}
+.block_panel .block_menu_current {
+  color: #e6e6e6;
+  fill: #e6e6e6;
+}
+.block_clear a {
+  background: rgba(28,29,31,.4);
+  color: #cfcfcf;
+}
+.block_clear_icon {
+  fill: #cfcfcf;
+}
+.unavaliable {
+  background: rgba(217,155,61,.1);
+  border: 2px solid #cbcdb6;
+}
+.screen_text {
+  color: #f6f3f5;
+  text-shadow: 0 0 50px #000;
+}
+.block_panel>.block_menu_drop {
+  background: #44494b;
+}
+.unavaliable_icon {
+  fill: #decd93;
+}
+.unavaliable_title {
+  color: #decd93;
+}
+.unavaliable_text {
+  color: #e6e6e6;
+}
+.unavaliable_social li a {
+  border: 2px solid #e6e6e6;
+  fill: #e6e6e6;
+}
+.count_active{
+  color: #757575;
+  background: #495053;
+}
+@media (max-width:1200px) {
+  .sidebar_link button {
+    background: transparent;
+  }
+}
+.comment_rating a.is_active .img-fill {
+  visibility: visible;
+}
+.comment_rating a:hover+a+a+a+a svg,.comment_rating a:hover+a+a+a svg,.comment_rating a:hover+a+a svg,.comment_rating a:hover+a svg,.comment_rating a:hover svg {
+  fill: url(#GradientStatsDark);
+}
+.filter_checkbox,.multi_trade_text,.rates_item .item_label {
+  color: #cfcfcf;
+}
+.filter_checkbox_text.through:before {
+  background: #cfcfcf;
+}
+.footer_bottom_text span {
+  color: #decd93;
+}
+.block_title_keys_additional:after {
+  border: 11px solid transparent;
+  border-bottom: 9px solid #495053;
+}
+.item.dis:before {
+  background: rgba(46,46,47,.9);
+  content: "";
+  height: 100%;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+[mode=no_bot] .item.dis{
+  opacity: 1;
+}
+[mode=no_bot] .item.dis:before{
+  display: none;
+}
+[mode=no_bot]  .item.nowithdraw:before{
+  background: rgba(46,46,47,.9);
+  content: "";
+  height: 100%;
+  left: 0;
+  display: block;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.popup_big_sticker_delimiter {
+  background: rgba(0,0,0,.2);
+}
+.waiting_item>div>.success {
+  stroke: #7c9f37;
+}
+.waiting_item>div>.fail {
+  stroke: #de6d6d;
+}
+.waiting_item>div>.active {
+  fill: #92a5c5;
+}
+.waiting_item>div>.inactive {
+  stroke: #92a5c5;
+}
+.waiting_text {
+  color: #fff;
+}
+.iframe_pay_close{
+  fill: #9f9f9f;
+}
+.FN {
+  color: #178391;
+}
+.MW {
+  color: #76b400;
+}
+.FT {
+  color: #e5bf26;
+}
+.WW {
+  color: #ff8029;
+}
+.BS {
+  color: #ff3e2f;
+}
+.popup_exterior.FN {
+  color: #7edfe0;
+}
+.popup_exterior.MW {
+  color: #62de95;
+}
+.popup_exterior.FT {
+  color: #fbc980;
+}
+.popup_exterior.WW {
+  color: #d7d7d7;
+}
+.popup_exterior.BS {
+  color: #ffa9a9;
+}
+.exterior_chosen_sell_mode.FN {
+  color: #7edfe0;
+}
+.exterior_chosen_sell_mode.MW {
+  color: #62de95;
+}
+.exterior_chosen_sell_mode.FT {
+  color: #fbc980;
+}
+.exterior_chosen_sell_mode.WW {
+  color: #d7d7d7;
+}
+.exterior_chosen_sell_mode.BS {
+  color: #ffa9a9;
+}
+.waiting_text a {
+  color: #fff;
+}
+.waiting_btn .btn svg {
+  fill: #1b1b1e;
+}
+.waiting_bottom {
+  background: #333538;
+}
+.filter_more_dash {
+  background: #fff;
+}
+.waiting_bottom_title {
+  color: #e6e6e6;
+}
+.filter_checkbox_switch input:checked+i {
+  background: #a6965a;
+  box-shadow: inset 1px 2px 4px 0 rgba(0,0,0,.15);
+}
+.steps_text>span {
+  color: #bcab6d;
+  transition: color .2s ease,border .2s ease;
+}
+.steps_text>span:after {
+  background-color: hsla(47,37%,58%,.5);
+  content: "";
+  display: block;
+  height: 1px;
+  left: 0;
+  margin-top: -3px;
+  position: absolute;
+  width: 100%;
+}
+.block_menu_list_link{
+  color: #d5d5d5;
+}
+.steps_text>a {
+  color: #bcab6d;
+  text-decoration: none;
+  transition: color .2s ease;
+}
+.steps_text>a:after {
+  background-color: hsla(47,37%,58%,.5);
+  content: "";
+  display: block;
+  height: 1px;
+  left: 0;
+  margin-top: -3px;
+  position: absolute;
+  width: 100%;
+}
+.footer {
+  background: #4ea2d3;
+  background: linear-gradient(90deg,#cafffb 0,#fbffcd);
+}
+.roll_panel_text span {
+  color: #decd93;
+}
+::-webkit-scrollbar-thumb,::-webkit-scrollbar-thumb:window-inactive {
+  background: #decd93;
+}
+.modal_subtitle {
+  color: #cfcfcf;
+}
+.scam_modal_content{
+  color: #cfcfcf;
+}
+.bots_header {
+  background: linear-gradient(90deg,rgba(147,222,216,.4) 0,hsla(65,53%,72%,.4));
+  color: #fff;
+}
+.header_drop.is_show .lang_current {
+  color: #decd93;
+  fill: #decd93;
+}
+.price_stickers_title {
+  color: #e6e6e6;
+}
+.bots_item {
+  border-top: 2px solid hsla(0,0%,90%,.15);
+  color: #cfcfcf;
+}
+.footer_bottom {
+  background: #25282a;
+}
+.filter_checkbox_dot.inactive .filter_checkbox_point{
+  background: #a6965a;
+}
+.checkbox_container.inactive .filter_checkbox_point{
+  background: #a6965a;
+}
+.pattern_index input{
+  color: #1a1b1e;
+}
+.icon_pattern_index{
+ color: #e6e6e6;
+}
+.filter_checkbox_point{
+  background: #838383;
+}
+.filter_more a {
+  color: #cfcfcf;
+  text-decoration: none;
+}
+.block_info_steps .step_text,.stats_item .item_text {
+  color: #cfcfcf;
+}
+.block_menu_current {
+  color: #cfcfcf;
+  fill: #cfcfcf;
+}
+.balance_title_background {
+  background: linear-gradient(90deg,#3f3f42 0,#5f696e 50%,#3f3f42);
+}
+.balance_title_subtitle_text {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.balance_title_shadow {
+  background-image: radial-gradient(ellipse,#999 0,hsla(0,0%,80%,.1) 70%,hsla(0,0%,80%,0) 100%);
+  display: none/*!important*/;
+}
+.balance_title_header {
+  color: #e6e6e6;
+}
+[slider] .slider_circ{
+  background-color: #9e821b;
+}
+.filter_checkbox_dot.inactive .filter_checkbox_text:before{
+  background: #cfcfcf;
+}
+.skin_list{
+  background: #32393c;
+}
+.skin_list_row:after{
+  border-top: 8px solid #32393c;
+}
+.skin_list_text{
+  color: #2b2a28;
+  background: linear-gradient(90deg,#ddcc92 0,#ac9f74);
+}
+.lock_confirm_close{
+  fill: #e6e6e6;
+}
+.skin_list_row .skin_list_trade::-webkit-scrollbar-thumb{
+  background: #5a555e;
+}
+.block_menu_list_link.is_active{
+  color: #fce38a;
+}
+.m_filter_row_title{
+  color: #e6e6e6;
+}
+.pattern_index{
+  background: rgba(68, 72, 81, .3);
+}
+.pattern_text{
+  color: #e6e6e6;
+}
+.pattern_number{
+  color: #e6e6e6;
+}
+.m_filter_row {
+  background: rgba(68, 72, 81, .3);
+}
+.list_menu.filter_applied .list_menu_current svg {
+  fill: #e6e6e6;
+}
+.list_menu.filter_applied .list_menu_type li.is_active {
+  fill: #fce38a;
+}
+.list_menu.filter_applied .list_menu_type li.showed {
+  fill: #f9e088;
+}
+.list_menu.filter_applied .list_menu_type li.is_active .list_menu_type_link{
+  fill: #fce38a;
+}
+.list_menu.filter_applied .list_menu_type li.showed .list_menu_type_link{
+  fill: #f9e088;
+}
+.list_menu.filter_applied li.is_active,.list_menu.filter_applied li.showed {
+  color: #f9e088;
+  text-decoration: underline;
+}
+.button_screen{
+  color: #1b1b1e;
+  background: rgba(184, 172, 132, .75);
+  font-weight: 600;
+}
+.link_3d{
+  color: #1b1b1e;
+  background: rgba(184, 172, 132, .75);
+  font-weight: 600;
+}
+.button_screen:hover{
+  background: rgba(184, 172, 132, 1);
+}
+.button_screen svg{
+  fill: #1b1b1e;
+}
+.balance_money_step_price > div{
+  color: #757575;
+  opacity: .8;
+}
+.balance_money_step.active > .balance_money_step_price > div{
+  color: #000;
+  opacity: .7;
+}
+.payment_rus_item.active{
+  background: linear-gradient( 260deg, #ac9f74 0%, #decd93 100%);
+}
+.payment_rus_item.active svg{
+  fill: #fff
+}
+.filter_more_dashed.personal .filter_more_dash{
+  background: #a89d76;
+}
+@media (min-width:992px) {
+  .payment_rus_item:hover{
+    background: linear-gradient( 260deg, #ac9f74 0%, #decd93 100%);
+  }
+  .scam_modal_content a:hover span{
+    border-bottom: 1px solid rgba(0,0,0,0);
+  }
+  .personal_price_container.show svg:hover{
+    fill: #000;
+  }
+  .payment_rus_item:hover .payment_rus_item_star{
+    fill: #fff;
+  }
+  .lock_confirm_close:hover{
+    fill: #fff;
+  }
+  .block_menu_list_link:hover{
+    color: #fce38a;
+  }
+  .list_menu_type_link:hover {
+    fill: #decd93;
+  }
+  .trade_btn_wrap div.btn_active_trade + .buttons_inputs_trade 
+  .buttons_inputs_trade_item:hover{
+    opacity: 1;
+    background: rgba(255,255,255, .3);
+    box-shadow: 3px 5px 9px 0px rgba(0, 0, 0, 0.05);
+  }
+  .buttons_inputs_trade_item:hover{
+    opacity: 1;
+    background: #da9834;
+    box-shadow: 3px 5px 9px 0px rgba(0, 0, 0, 0.05);
+  }
+  .list_menu_list_link:hover{
+    color: #f9e088;
+  }
+  .block_info_steps .step_number>div {
+    height: 38px;
+    left: 2px;
+    top: 2px;
+    width: 38px;
+  }
+  .buttons_more:hover{
+    fill: #3c3931;
+  }
+  .buttons_trade_call_container:hover .icon_more2{
+    fill: #564121;
+  }
+  .btn_active_trade ~ .buttons_trade_call_container:hover .icon_more2{
+    fill: #124a46;
+  }
+  .buttons_trade_call_container:hover .icon_more2{
+    fill: #564c26;
+  }
+  .footer_favorite_skins_row_text:hover {
+    color: #decd93;
+  }
+  .reviews_info_btn>.btn:hover {
+    background: linear-gradient(90deg,#e2d3a0 0,#b6ab85);
+  }
+  .subscribe_btn>.btn:hover {
+    background: linear-gradient(90deg,#e2d3a0 0,#b6ab85);
+  }
+  .bots_col>.bots_btn_v2:hover {
+    background: linear-gradient(90deg,#829793 0,#6a7f7b);
+  }
+  .header_menu li a:hover {
+    color: #decd93;
+  }
+  .header_setting>svg:hover {
+    fill: #decd93;
+  }
+  .sentence_container .icon_close:hover {
+    fill: #000;
+  }
+  .ip_options li a:hover {
+    color: #ebeaea;
+    text-decoration: none;
+  }
+  .link_3d:hover{
+    background: rgba(184, 172, 132, 1);
+  }
+  .ip_options li a:hover:before {
+    background: transparent
+  }
+  .link_to_steam_stickers:hover {
+    text-decoration: underline;
+  }
+  .bots_btn:hover {
+    background: linear-gradient(90deg,#9a906f 0,#7c755c);
+  }
+  .waiting_btn>.btn_v2:hover {
+    background: linear-gradient(90deg,#a5bab7 0,#8da29e);
+  }
+  .notification_container:hover>svg {
+    fill: #decd93;
+  }
+  .modal_footer_skin_status_button:hover {
+    background: #ac9f74;
+  }
+  .check_skin_status_col:hover {
+    color: #fff;
+  }
+  .footer_favorite_skins_row svg:hover {
+    fill: #decd93;
+  }
+  .clear_input>svg:hover {
+    fill: #aea175;
+  }
+  .screen_btn>li>.btn_v2:hover {
+    background: linear-gradient(90deg,#c2b99b 0,#a59e84);
+  }
+  .block_select_text_undo:hover {
+    color: #decd93;
+    fill: #decd93;
+  }
+  .glass_block_zoom>svg:hover {
+    fill: #fff;
+  }
+  .sale_close_img:hover {
+    fill: #decd93;
+  }
+  .btn_v2_team:hover {
+    background: linear-gradient(90deg,#a5bab7 0,#8da29e);
+  }
+  .btn:hover {
+    background: linear-gradient(90deg,#e2d3a0 0,#b6ab85);
+  }
+  .steps_text>a:hover:after {
+    display: none;
+  }
+  .steps_text>a:hover {
+    color: #decd93;
+  }
+  .trade_link_close:hover {
+    fill: #decd93;
+  }
+  .filter_more a:hover {
+    color: #decd93;
+  }
+  .filter_more a:hover .filter_more_dash {
+    background: #decd93;
+  }
+  .footer_bottom_terms a:hover>span {
+    border-bottom-color: rgba(215,116,160,0);
+    color: #decd93;
+  }
+  .header_social li a:hover {
+    color: #decd93;
+    fill: #decd93;
+  }
+  .unavaliable_social li a:hover {
+    border-color: #decd93;
+    fill: #decd93;
+  }
+  .profile_menu ul li:hover {
+    color: #decd93;
+  }
+  .block_clear a:hover {
+    color: #decd93;
+  }
+  a:hover .block_clear_icon {
+    fill: #decd93;
+  }
+  .trade_link_link a:hover {
+    border-color: #decd93;
+    color: #decd93;
+    cursor: pointer;
+  }
+  .buttons .btn:hover {
+    box-shadow: inset 0 -3px 0 rgba(57,57,57,.15),
+    3px 3px 5px rgba(0,0,0,.2),0 0 36px hsla(47,37%,83%,.45);
+  }
+  .trade_link_info_btn a:hover {
+    border-color: #decd93;
+    color: #decd93;
+    fill: #decd93;
+  }
+  .buttons_inputs_list:hover {
+    background-color: rgba(0,0,0,.25);
+    opacity: 1;
+  }
+  .profile_info:hover {
+    color: #decd93;
+    fill: #decd93;
+  }
+  .hint_text>span:hover {
+    border-bottom: 2px solid hsla(0,0%,100%,0);
+  }
+  .c span:hover {
+    color: #fce38a;
+  }
+  .roll_panel_btn a:hover>.roll_panel_btn_showed {
+    opacity: 1;
+  }
+  .block_search_drop ul li a.is_active,.block_search_drop ul li a:hover {
+    color: #decd93;
+  }
+  .additional_float_close:hover {
+    fill: #9b8d5a;
+  }
+  .rep a:hover,.repSt a:hover {
+    border-bottom: 2px solid rgba(93,86,140,0);
+  }
+  .balance_header_add:hover>svg {
+    fill: #decd93;
+  }
+  .header_drop.theme:hover>svg {
+    fill: #decd93;
+  }
+  .icon_arrow_down_reviews:hover {
+    fill: #cebe89;
+  }
+  .faq_item .item_title a:hover {
+    color: #decd93;
+    cursor: pointer;
+    fill: #decd93;
+  }
+  .profile_menu ul li:hover a svg {
+    fill: #decd93;
+  }
+  .bots_col>.btn:hover {
+    box-shadow: 2px 3px 7px 0 rgba(0,0,0,.2);
+  }
+  .modal_close:hover {
+    fill: #decd93;
+  }
+  .iframe_pay_close:hover{
+    fill: #decd93;
+  }
+  .conv_button:hover svg {
+    fill: #decd93;
+  }
+  .close_step_svg:hover {
+    fill: #decd93;
+  }
+  .seen_next:hover svg,.seen_prev:hover svg {
+    fill: #decd93;
+  }
+  .lang_drop ul li a:hover {
+    color: #decd93;
+  }
+  .reviews_thumbs_next:hover svg,.reviews_thumbs_prev:hover svg {
+    fill: #decd93;
+  }
+  .currency_drop ul li a:hover {
+    color: #decd93;
+  }
+  .footer_bottom_social li a:hover {
+    color: #decd93;
+    fill: url(#GradientStatsDark);
+  }
+  .seen_item .item_link a {
+    color: #cfcfcf;
+    text-decoration: none!important;
+  }
+  .steps_text>span:hover:after {
+    display: none;
+  }
+  .steps_text>span:hover {
+    color: #decd93;
+  }
+  .filter {
+    border-bottom: 1px solid hsla(0,0%,100%,.15);
+  }
+  .m_filter_top {
+    background: rgba(170,184,222,.15);
+  }
+  .sticker_prev:hover {
+    fill: #decd93;
+  }
+  .sticker_next:hover {
+    fill: #decd93;
+  }
+  .filter_checkbox_drop a:hover {
+    border-color: #decd93;
+    color: #decd93;
+  }
+  .filter_checkbox a:hover {
+    color: #decd93;
+    fill: #decd93;
+    opacity: 1;
+  }
+  .buttons:after {
+    border-top: 18px solid hsl(240, 3%, 23%);
+  }
+  .buttons_auttoselect.illumination:after {
+    content: none;
+  }
+  .footer_bottom_social li a:hover svg {
+    fill: #decd93;
+  }
+  .pattern_number sup svg:hover{
+    fill: #decd93;
+  }
+  .pattern_number:hover svg{
+    fill: #fff;
+  }
+}
+
+.screen_btn>li>.btn {
+  box-shadow: 3px 4px 15px 0 rgba(0,0,0,.25);
+}
+.sidebar_gradient {
+  background: #b1a477;
+}
+.btn {
+  background: #655f90;
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+  color: #1a1b1e;
+}
+.btn_v2 {
+  background: #d99b3d;
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.btn_v2_icon_reload {
+  fill: #1a1b1e;
+}
+.trade_link_box_update>.btn_v2 {
+  box-shadow: inset 0 -3px 0 rgba(57,57,57,.15),3px 4px 15px 0 rgba(0,0,0,.1);
+}
+.btn_v3 {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.btn_v2_team {
+  background: linear-gradient(90deg,#99b1ad 0,#7d9591);
+}
+.btn_v3 a,.btn_v3>svg {
+  fill: #1a1b1e;
+}
+.btn_v3 a {
+  color: #1a1b1e;
+}
+.filter_checkbox_dot i {
+  background: #838383;
+}
+.steps_item.is_active:before {
+  background: #d99b3d;
+  background: linear-gradient(90deg,#d99b3d 0,#b96389 50%);
+}
+.steps_item.is_active .item_number {
+  background: linear-gradient(90deg,#decd93 0,#b2a57a);
+  box-shadow: 0 0 24px hsla(35,53%,72%,.8);
+}
+.steps_circle span {
+  border: 4px solid #c7b886;
+}
+.steps_item.is_active .item_number_gradient {
+  background: linear-gradient(90deg,hsla(46,53%,72%,.9) 0,hsla(46,27%,59%,.9));
+  background: -webkit-linear-gradient(90deg,#d99a3a 0,#bc8129);
+  text-shadow: 3px 4px 16px rgba(0,0,0,.25);
+}
+.stats_item .item_number_gradient {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.seen_item .item_image {
+  background: #736396;
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.buttons {
+  background: hsl(240, 2%, 23%);
+}
+.block_info hr {
+  background-color: #35383a;
+  border-top: 1px solid #35383a;
+}
+.modal_title {
+  color: #e6e6e6;
+}
+.reviews_item .item_date {
+  color: #cfcfcf;
+}
+.button_popup_item>svg {
+  fill: #212225;
+}
+.button_popup_item {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+  color: #1a1b1e;
+}
+.header_dota a {
+  background-image: url(../../images/dota-logo_dark.svg);
+}
+.block_menu_drop {
+  background: #495053;
+  box-shadow: 3px 5px 9px 0 rgba(1,1,2,.1);
+}
+.block_content::-webkit-scrollbar {
+  background: rgba(215,225,255,.05);
+}
+.block_content::-webkit-scrollbar-thumb {
+  background: hsla(46,25%,56%,.8);
+}
+.block_content::-webkit-scrollbar-thumb:window-inactive {
+  background: #6a676d;
+}
+.block_menu.showed>.block_menu_current {
+  background: #495053;
+}
+.buttons_more {
+  fill: #1a1b1e;
+}
+.benefits {
+  background: rgba(99,99,99,.2);
+}
+.buttons .btn {
+  background: #5d568c;
+  background: linear-gradient(90deg,#efe6c9 0,#d6cfba);
+}
+.trade_link_box_label {
+  background: #5f696e;
+  box-shadow: 3px 4px 15px 0 rgba(0,0,0,.1);
+}
+.trade_link {
+  background: rgba(99,99,99,.25);
+}
+.sidebar_title span {
+  color: #bab9b9;
+}
+.price_title,.sidebar_title {
+  color: #e6e6e6;
+}
+.block_title span {
+  color: #cbd1d4;
+}
+.price_input {
+  background: #dbdbdb;
+  color: #484849;
+}
+.sidebar_link>div {
+  background: linear-gradient(270deg,#decd93 0,#ac9f74);
+  border: 2px solid #bbae81;
+  opacity: 1;
+}
+.buttons .btn_v2 {
+  background: #decd93;
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.buttons_inputs_trade{
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.block_select_text {
+  color: #e6e6e6;
+}
+.block_select_arrow {
+  fill: #e6e6e6;
+}
+.block_header {
+  background: #32393c;
+}
+.sidebar {
+  background: rgba(99,99,99,.3);
+}
+.filter_checkbox_switch i {
+  background: #838383;
+  box-shadow: inset 1px 1px 5px 0 rgba(0,0,0,.3);
+}
+.list_menu_list .list_menu_list_link.is_active,.list_menu_list .list_menu_list_link.showed {
+  color: #f9e088;
+}
+.list_menu_list a.is_active,.list_menu_list a.showed {
+  color: #f9e088;
+}
+.list_menu_list li:first-child{
+  text-decoration: none;
+}
+.list_menu_type_link {
+  fill: #e6e6e6;
+}
+.m_filter .price_title {
+  color: #fff;
+}
+.save_filters_text {
+  color: #e5e9e8;
+}
+.m_filter label {
+  color: #cbcbcb;
+}
+.trade_diff_popover {
+  color: #1a1b1e;
+  opacity: .8;
+}
+.trade_diff_popover>svg {
+  fill: #1b1b1e;
+  opacity: .8;
+}
+.trade_diff_popover>span {
+  color: #1a1b1e;
+  opacity: .8;
+}
+.waiting_list {
+  background: #e7e0e3;
+  background: rgba(170,184,222,.15);
+}
+.comment_field textarea {
+  background: #e6e6e6;
+}
+.block_info_text {
+  color: #e6e6e6;
+}
+.waiting_item .item_name {
+  color: #e3e4df;
+}
+.block_info_text a {
+  border-bottom: 1px solid #bcab6d;
+  color: #bcab6d;
+}
+.bonus.is_active {
+  background-image: linear-gradient(90deg,#bd3aa6 10%,#bd3a6d 29%,#c25485 69%,#c25485);
+}
+.block_menu_list a.is_active,.block_menu_list a.showed {
+  color: #fce38a/*123!important*/;
+}
+.balance_amount {
+  color: #e6e6e6;
+}
+.balance_money_header>div>span {
+  color: #fce38a;
+}
+.balance_amount span {
+  color: #b59e50;
+}
+.balance_bonus_field_container{
+  color: #90792d;
+}
+.balance_money_header {
+  color: #cfcfcf;
+}
+.balance_money_header>svg {
+  fill: #cfcfcf;
+}
+.balance_rub_container{
+  color: #3b455a;
+  opacity: .8;
+}
+.transactions_footer,.transactions_header {
+  background: linear-gradient(90deg,rgba(147,222,216,.4) 0,hsla(65,53%,72%,.4));
+}
+.balance_money_container {
+  background: rgba(170,184,222,.15);
+}
+.balance_money_funds {
+  color: #1b1b1e;
+}
+.balance_money_subtitle {
+  color: #9b9889;
+}
+.balance_money_funds>svg {
+  fill: #1b1b1e;
+}
+.transactions_footer_lists>div {
+  color: #e6e6e6;
+}
+.transactions_footer_lists>div.active {
+  color: #fce38a;
+}
+.personal_withdraw_link{
+  color: #fde285;
+  fill: #fde285;
+}
+.link_3d > svg{
+  fill: #000
+}
+@media (min-width:500px) {
+  .transactions_footer_lists>div:hover {
+    color: #fce38a;
+    fill: #fce38a
+  }
+  .transactions_footer_lists>div:hover svg{
+    fill: #fce38a
+  }
+}
+.transactions_footer_next,.transactions_footer_prev {
+  color: #cfcfcf;
+}
+.transactions_footer_next svg,.transactions_footer_prev svg {
+  fill: #cfcfcf;
+}
+.block_title_balance_color {
+  color: #e6e6e6;
+}
+.price_title>svg {
+  fill: #bab9b9;
+}
+.price_title_dot.active {
+  background: linear-gradient(90deg,#d774a0 0,#c0638c);
+}
+.price_title_dot {
+  background-color: #c5c5c5;
+}
+.balance_money_funds {
+  text-decoration: none;
+}
+.modal_header_gradient {
+  background: linear-gradient(90deg,#ddcc93 0,#ada074);
+}
+.balance_input.fail {
+  border: 2px solid #da74ba;
+}
+.currency_symbol_balance_head,.current_currency_balance,.plus_balance {
+  color: hsla(0,0%,90%,.6);
+}
+.whoops_text,.whoops_text>span {
+  color: #7d4274;
+}
+.market_select_title.active{
+  color: #fff;
+}
+.market_select_title{
+  color: #fff;
+}
+.market_inactive_ak47{
+  fill: #afadaf;
+}
+.pr_p{
+  color: #1a1b1e;
+  background: rgba(213,205,153, .8);
+}
+.market_select_title svg{
+  fill: #908f90;
+}
+.market_stickers svg{
+  fill: #afadaf;
+}
+.market_skin_info{
+  color: #757575;
+}
+.market_select_name{
+  color: #e6e6e6;
+}
+.market_enter_hint{
+  color: #e6e6e6;
+}
+.count_active span{
+  color: #e6e6e6;
+}
+.exterior_chosen_sell_mode{
+  color: #e6e6e6;
+}
+.market_price_text{
+  color: #e6e6e6;
+}
+.market_text{
+  color: #e6e6e6;
+}
+.market_price_input_container{
+  background: #f7f6f7;
+}
+.market_price_title{
+  color: #e6e6e6;
+  opacity: 1;
+}
+.market_price_title > span{
+  color: #d5cd99;
+}
+.market_price_title > span > span{
+  color: #d5cd99;
+}
+.market_price_title.inactive > span > span{
+  color: #58595b;
+}
+.market_price_title.inactive > span {
+  color: #58595b;
+}
+.market_price_title.inactive {
+  color: #58595b;
+}
+.market_skin_float_inactive{
+  background: #e6e6e6;
+}
+.block_header_input {
+  background: #2b3134;
+}
+.f3 {
+  color: #e6e6e6;
+}
+.block_header_add_menu {
+  background: #495053;
+}
+.modal_from_footer_container {
+  background: #484c52;
+}
+.modal_from_footer_text {
+  color: #e6e6e6;
+}
+.bonus_popup_row>.bonus_popup_col>div {
+  color: #dbca91;
+}
+.bonus_popup_col_text {
+  color: #bcbcbd;
+}
+.bonus_popup_col_text span {
+  color: #e6e6e6;
+}
+.bonus_popup_text {
+  color: #a6a7a8;
+}
+.bonus_popup_row a {
+  background: #decd93;
+  color: #1b1b1e;
+}
+
+.bonus_popup_col:nth-child(2) {
+  background: rgba(107,95,114,.2);
+}
+.bonus_popup_text>span:first-child {
+  color: #e6e6e6;
+}
+.bonus_popup_text>span:nth-child(2) {
+  color: #6aab36;
+}
+.bonus_popup_container_header>div:first-child {
+  background: linear-gradient(90deg,#5a7979 0,#65786c);
+}
+.bonus_popup_container_header>div:first-child:after {
+  border-bottom: 28px solid transparent;
+  border-left: 21px solid #65786c;
+  border-top: 28px solid transparent;
+}
+.bonus_popup_container_header>div:nth-child(2) {
+  background: linear-gradient(90deg,#899a69 0,#75785d);
+}
+.bonus_popup_container_header {
+  color: #e6e6e6;
+}
+.modal_content_settings_col {
+  color: #cfcfcf;
+}
+.modal_content_settings_col span {
+  color: #e6e6e6;
+}
+.modal_title svg {
+  fill: #e6e6e6;
+}
+.modal_from_footer_text>a {
+  border-bottom: 2px solid hsla(47,37%,58%,.3);
+  color: #bcab6d;
+}
+.block_header_add.showed {
+  background: #495053;
+}
+.mode_text span{
+  color: #8e8a90;
+}
+.awaiting_text{
+  color: #e6e6e6;
+}
+.awaiting_text span{
+  color: #fff;
+}
+.balance_money_step.active>.balance_money_step_price {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+  color: #1b1b1e;
+}
+.balance_money_step.active>.balance_money_step_text {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.block_header_add>a>svg:hover {
+  fill: #decd93;
+}
+.block_header_add_funds:hover {
+  color: #decd93;
+  fill: #decd93;
+}
+.bonus_popup_row a:hover {
+  background: #ac9f74;
+}
+.transactions_footer_next svg:hover,.transactions_footer_prev svg:hover {
+  fill: #fce38a;
+}
+.transactions_add>svg:hover {
+  fill: #decd93;
+}
+.list_menu.filter_applied:hover .list_menu_current {
+  border-bottom: 1px solid #e6e6e6;
+  color: #e6e6e6;
+}
+.sidebar_link>div:hover {
+  background: linear-gradient(90deg,#e5d7a9 0,#bbb08f);
+  border-color: #c4b684;
+  opacity: 1;
+}
+.buttons .btn_v2:hover {
+  box-shadow: inset 0 -3px 0 rgba(57,57,57,.15),3px 3px 5px rgba(0,0,0,.2),0 0 20px hsla(47,47%,74%,.75);
+}
+.block_info_text a:hover {
+  border-bottom-color: rgba(55,65,87,0);
+  color: #decd93;
+}
+.balance_input>svg:hover {
+  fill: #decd93;
+}
+.balance_money_step:hover>.balance_money_step_price {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+  color: #1b1b1e;
+}
+.balance_money_step:hover > .balance_money_step_price > div {
+  color: #000;
+  opacity: .7;
+}
+.balance_money_step:hover>.balance_money_step_text {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.faq_item .item_text a:hover {
+  color: #fff;
+  opacity: 1;
+  text-decoration: none;
+}
+.list_menu.filter_applied:hover .list_menu_current svg,.list_menu_current:hover>svg {
+  opacity: 1;
+}
+.cr:hover {
+  color: #decd93;
+}
+.list_menu_current:hover {
+  color: #e6e6e6;
+  cursor: pointer;
+}
+.list_menu_type_all a {
+  color: #e6e6e6;
+}
+.faq_item .item_text a {
+  color: #fff;
+  opacity: .9;
+}
+.list_menu_type li a.showed {
+  fill: #decd93;
+}
+.list_menu_type_all a.is_active {
+  color: #decd93;
+}
+.block_menu_bots .is_active,.block_menu_bots .is_showed {
+  color: #d99b3d;
+}
+.block_menu_bots li a:hover {
+  color: #d99b3d;
+}
+.block_menu_bots li a span sup {
+  color: rgba(217,155,61,.85);
+}
+.list_menu_current svg {
+  fill: #cfcfcf;
+  opacity: .8;
+}
+.p span {
+  color: #decd93;
+}
+.cr {
+  color: #c5c5c5;
+}
+.list_menu_current {
+  border-bottom: 2px solid hsla(0,0%,81%,.5);
+  color: #cfcfcf;
+}
+.list_menu.opened .list_menu_current {
+  border-color: rgba(26,27,30,.7);
+}
+.block_info_steps li:before {
+  background: linear-gradient(270deg,#decd93 40%,#ac9f74 60%);
+}
+.block_info_steps .step_number {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74 50%);
+}
+.block_info_steps .step_number>div {
+  background: #2d2d2f;
+  border-radius: 50%;
+  color: #fff;
+  display: block;
+  height: 36px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 36px;
+}
+.hover {
+  fill: #decd93;
+}
+.header_menu li.hover a,.hover {
+  color: #decd93;
+}
+.header_setting.hover>svg {
+  fill: #decd93;
+}
+.market_skin_info.active{
+  color: #e6e6e6;
+}
+.market_price_error{
+  color: #ce3535;
+}
+@media (min-width:768px) {
+  .block_info_steps .step_number>div {
+    height: 46px;
+    left: 3px;
+    top: 3px;
+    width: 46px;
+  }
+}
+@media (max-width:992px) {
+  .reviews_info_side:first-child {
+    border-right: 1px solid hsla(46,26%,57%,.5);
+  }
+  .sale_container{
+    background: none;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  .market_select_container{
+    background: hsl(240, 2%, 23%);
+  }
+  .filter_checkbox_drop {
+    background: #2f2f30;
+  }
+  .filter{
+    border-bottom: 1px solid #7f7f7f;
+  }
+  .filter_mobile {
+    background: #2f2f30;
+  }
+  .m_filter_top{
+    background: transparent;
+  }
+  .list_menu_mobile .list_menu_dropdown{
+    background: #2f2f30;
+    text-align: center;
+    box-shadow: inset 0px 5px 10px 0px rgba(0, 0, 0, 0.25),
+    inset 0px -5px 10px 0px rgba(0, 0, 0, 0.25);
+  }
+  .list_menu_mobile.opened .list_menu_current {
+    background-color: transparent;
+    border-bottom: 2px solid rgba(255,255,255, .0);
+  }
+}
+.block_info_steps .step_number>div>span {
+  background: linear-gradient(0deg,#decd93 40%,#ac9f74 60%);
+  display: block;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.block_total_value {
+  background: hsla(197,3%,49%,.7);
+}
+.block_total_value:before {
+  border-right: 12px solid hsla(197,3%,49%,.7);
+}
+.block_total_value_triagle{
+  border-right: 12px solid hsla(197,3%,49%,.7);
+}
+.stats_graph {
+  opacity: 1;
+}
+.sponsorship_social_col>svg {
+  fill: #c4c2c3;
+}
+.ban {
+  background: #333538 url(../../images/ban.png?v=11) 50% 50% no-repeat;
+}
+.how_trade_item .item_content:before {
+  background: #7b6497;
+  background: linear-gradient(180deg,#7b6497 0,#d99b3d);
+}
+.buy_modal_error{
+  color: #de6d6d;
+}
+.roll_panel_text {
+  color: #e6e6e6;
+}
+.roll_panel.is_rolled {
+  background: rgba(99,99,99,.3);
+  border-bottom-color: hsla(0,0%,45%,.35);
+}
+.ip_header {
+  background: #f6f2f8;
+  background: linear-gradient(90deg,#6e7376 0,#7d8182 50%,#6e7376);
+}
+.ip_name,.ip_name_big {
+  color: #e6e6e6;
+}
+.fill_twitch {
+  fill: #fff;
+}
+.popup_small_delimiter {
+  background-color: rgba(0,0,0,.2);
+}
+.status_label {
+  background: #5f696e;
+}
+.faq_item {
+  border-top: 2px solid hsla(0,0%,100%,.1);
+}
+.bonus_title_text {
+  background: linear-gradient(90deg,#decd93 0,#decd93);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.personal_bonus_title_text{
+  background: linear-gradient(90deg,#decd93 0,#decd93);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.bonus_title span {
+  color: #e6e6e6;
+}
+.bonus_text span {
+  color: #d5cd99;
+}
+.about_step_title,.about_title,.bonus_text,.bonus_text a,.bonus_text a:visited {
+  color: #e6e6e6;
+}
+.item_popup,.item_popup_big,.item_popup_filter_hint,.item_popup_hint {
+  background: #5d6365;
+}
+.item_popup_error,.item_popup_hint {
+  color: #e6e6e6;
+}
+.ip_price:before {
+  border-top: 45px solid #5d6365;
+}
+.ip_price {
+  background: #686195;
+  background: linear-gradient(90deg,#bdb187 0,#958c6e);
+  color: #1a1b1e;
+}
+.delimiter_trade_lock{
+  background: #4d4e4f;
+}
+.hold_popover{
+  color: #dec87e;
+}
+.ip_nametag {
+  color: #0a9696;
+}
+.ip_list li>span {
+  color: #e6e6e6/*!important*/;
+}
+.ip_options li a {
+  color: #cfcfcf;
+  text-decoration: none;
+}
+.item.us_se{
+  outline: 2px solid #c2bca8;
+  box-shadow: 0px 0px 10px 3px rgba(194, 199, 96, 0.5);
+}
+.ip_options li a:before{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background: #cfcfcf;
+  bottom: 1px;
+}
+.ip_options{
+  background: #5d6365;
+}
+.link_to_steam_stickers {
+  color: #cfcfcf;
+  text-decoration: none;
+}
+.payment_rus_text{
+  color: rgb(206, 206, 206);
+}
+.payment_rus_text > svg{
+  fill: #fbe289;
+}
+.payment_rus_text > span{
+  color: #fbe289;
+}
+.payment_rus_info{
+  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+}
+.payment_rus_info_input svg{
+  fill: #429353;
+}
+.payment_rus_info_input input:focus{
+  border-bottom: 2px solid #c3b482;
+}
+.payment_rus_contaner > .payment_rus_g2a{
+  fill: hsla(0,0%,100%,.75);
+}
+.payment_rus_info_input_text{
+  color: rgb(229, 229, 229);
+}
+.payment_rus_info_input input{
+  color: #e6e6e6;
+  border-bottom: 2px solid #c5c6c6;
+}
+.market_items_count{
+  color: #fff;
+}
+.market_items_count::-webkit-input-placeholder{
+  color: #fff;
+}
+.count_active_arrow{
+  fill: #b3b3b3;
+}
+.count_active_text:after{
+  
+}
+.count_active:focus > .count_active_text:after{
+  
+}
+.market_skin_float{
+  border-bottom: 1px solid rgba(255, 255, 255, .2);
+}
+.market_price_inputs_container{
+  border-bottom: 1px solid rgba(255, 255, 255, .2);
+}
+.error_screen{
+  color: rgb(228, 228, 228);
+}
+.add_price_stickers{
+  color: #9dbd60;
+}
+.header_numb_line {
+  background: #fff;
+}
+.balance_input_header{
+  color: #e6e6e6;
+}
+.tape_balance svg{
+  fill: #bfb07f;
+}
+.tape_balance_text{
+  color: #000;
+}
+.arrowPopupColor {
+  border-bottom: 8px solid #7d8182;
+}
+.arrowPopupColorDown,.arrowPopupColorHint {
+  border-bottom: 8px solid #5d6365;
+}
+.arrowPopupColorDownMobile {
+  border-bottom: 8px solid #b9ac80;
+}
+.ip_stickers_float.MW {
+  background: green;
+  color: #fff; 
+}
+.ip_stickers_float.FT {
+  background: #be893c;
+  color: #fff;
+}
+.ip_stickers_float.BS {
+  background: #ff3e2f;
+  color: #fff;
+}
+.filter_checkbox_switch.disable input:checked+i {
+  background: #838383!important;
+}
+.markup_main_container {
+  background: linear-gradient(90deg,hsla(44,29%,80%,.5) 0,hsla(47,40%,68%,.5));
+}
+.sentence_container {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.sentence_container .icon_close,.sentence_container .sentence_bell {
+  fill: #1a1b1e;
+}
+.sentence_text {
+  color: #1a1b1e;
+}
+.sentence_text a {
+  border-bottom: 2px solid rgba(0,0,0,.6);
+  color: #000;
+}
+.markup_price,.markup_text {
+  color: #1b1b1e;
+}
+.ip_float_arrow {
+  fill: #fff;
+}
+.p,.r {
+  color: #e6e6e6;
+}
+.f span:first-child {
+  color: #c5c5c5;
+}
+.f,.f1,.f2 {
+  color: #e6e6e6;
+}
+.roll_panel_btn a {
+  border: 2px solid #fff;
+  color: #fff;
+  fill: #fff;
+  opacity: .7;
+}
+.bonus {
+  background-color: hsla(0,0%,100%,.12);
+}
+.icon_more2{
+  fill: #1b1b1e;
+}
+.trade_btn_wrap > div >.btn_active_trade + .buttons_inputs_trade{
+  background: linear-gradient(90deg,#76c2bc 0,#3ea29b)/*/!important*/;
+}
+.buttons_inputs_trade_item{
+  color: #1a1b1e;
+}
+.buttons_inputs_trade{
+  color: #1a1b1e;
+}
+.buttons_inputs_trade_item > div{
+  fill: #1a1b1e;
+}
+.buttons_trade_item_svg{
+  fill: #1a1b1e;
+}
+.buttons_inputs_trade_item:hover{
+  opacity: 1;
+  background: rgb(230, 211, 147);
+  box-shadow: 3px 5px 9px 0px rgba(0, 0, 0, 0.05);
+}
+.rates_item .item_value {
+  background: linear-gradient(90deg,#d8cfaa 0,#d7cda7);
+}
+.reviews_info_side span {
+  color: #fff;
+}
+.rates_item .item_sep svg {
+  fill: #fff;
+}
+.reviews_thumbs_next svg,.reviews_thumbs_prev svg {
+  fill: #9f9f9f;
+}
+.reviews_info_side,.seen_item .item_subscr b {
+  color: #decd93;
+}
+.block_search {
+  background-color: #2b3134;
+}
+.faq_title {
+  color: #e6e6e6;
+}
+.main {
+  background: #161719;
+}
+@media (min-width:600px) {
+  .main {
+    background: url(../../images/background_dark.jpg);
+    background-size: cover;
+  }
+}
+.block {
+  box-shadow: 0 6px 18px 0 rgba(0,0,0,.1);
+}
+.block_content {
+  background: rgba(99,99,99,.3);
+}
+.bots_btn {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.block_menu_bots li:nth-child(2n) {
+  background: rgba(56,64,70,.69);
+}
+.reviews_info_btn a {
+  fill: #1a1b1e;
+}
+.terms_title {
+  color: #bbad7e;
+}
+.list_menu.is_active .list_menu_current {
+  background-color: #545457;
+}
+.terms_header {
+  color: #dedede;
+}
+.terms_text {
+  border-bottom: 1px solid hsla(300,4%,91%,.6);
+  color: #ececec;
+}
+.terms_footer {
+  background-color: hsla(46,53%,72%,.15);
+}
+.terms_footer_text {
+  color: #fff;
+}
+.content_terms.edit .change_log_title {
+  background: #6f6a65;
+  color: #dedede;
+}
+.content_terms.edit .change_log_p {
+  background: #3e3d3c;
+  color: #dedede;
+}
+.terms_footer_text>a,.terms_text>p>a {
+  border-bottom: 1px solid hsla(46,53%,72%,.15);
+  color: #decd93;
+}
+.comment_submit .btn svg {
+  fill: #1a1b1e;
+}
+.block_header_bonus {
+  color: #dad6cc;
+}
+.block_header_bonus>span {
+  color: #dad6cc/*!important*/;
+}
+.block_header_input>span {
+  color: #e6e6e6;
+}
+.header_add_bonus,.header_add_bonus>span {
+  color: #dbca91;
+}
+.reviews_info_btn>.btn {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.subscribe_btn>.btn {
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.waiting_btn>.btn_v2 {
+  background: linear-gradient(90deg,#99b1ad 0,#7d9591);
+}
+.transactions_row svg{
+  fill: #ececec;
+}
+.transactions_row.secondary_trade{
+  background: rgb(72, 74, 68);
+}
+.success {
+  color: #7c9f37;
+}
+.fail {
+  color: #d74964;
+}
+.block_search_drop {
+  background: rgba(43,49,52,.75);
+}
+.faq_item.is_active .item_title a {
+  color: #decd93;
+  fill: #decd93;
+}
+.balance_fail_input {
+  color: #da74ba;
+}
+.payment_rus_info_error{
+  color: #da74ba;
+}
+.btn_active_trade {
+  background: linear-gradient(90deg,#76c2bc 0,#3ea29b)!important;
+}
+.check_skin_status_col {
+  color: #cfcfcf;
+}
+.check_skin_status_col.act {
+  color: #fff;
+}
+.check_skin_status_col:nth-child(2n) {
+  background: hsla(0,0%,100%,.2);
+}
+.footer_favorite_skins_row {
+  border-bottom: 1px solid hsla(0,0%,100%,.15);
+}
+.footer_favorite_skins_row_text {
+  color: #cfcfcf;
+}
+.footer_favorite_skins_row_text>span {
+  color: #fff;
+}
+.footer_favorite_skins_title {
+  background: #484c52;
+  color: #cfcfcf;
+}
+.check_skin_status_menu {
+  background: linear-gradient(90deg,rgba(147,222,216,.4) 0,hsla(65,53%,72%,.4));
+}
+.footer_favorite_skins_container::-webkit-scrollbar {
+  background: #38383a;
+  width: 7px;
+}
+.footer_favorite_skins_container::-webkit-scrollbar-thumb {
+  background: hsla(46,53%,72%,.8);
+}
+.modal_footer_skin_status_container {
+  color: #e6e6e6;
+}
+.modal_footer_skin_status_button {
+  background: #decd93;
+  color: #1b1b1e;
+}
+.sponsorship_delimiter {
+  background: hsla(0,0%,100%,.3);
+}
+.sponsorship_subtitle_img {
+  fill: #e6e6e6;
+}
+.sponsorship_subject {
+  color: #e6e6e6;
+}
+.sponsorship_subject>span,.sponsorship_text>span {
+  color: #fff;
+}
+.sponsorship_contact>svg {
+  fill: #c7c7c7;
+}
+.sponsorship_contact>a {
+  color: #fff;
+}
+.sponsorship_contact {
+  background: rgba(183,174,189,.12);
+  color: #c7c7c7;
+}
+.sponsorship_text>a {
+  border-bottom: 1px solid hsla(0,0%,100%,.6);
+  color: #fff;
+}
+.sponsorship_title {
+  color: #fff;
+}
+.sponsorship_text {
+  color: #cacaca;
+}
+.notification_come {
+  background: #cdb668;
+}
+.block_header_add_funds {
+  background: rgba(60,60,50,.3);
+}
+.notification_items.active>.notification_items_circle {
+  background: #decd93;
+}
+.wrapper_skins_ticker {
+  background: hsla(197,3%,49%,.7);
+}
+.wrapper_skins_ticker:before {
+  border-right: 12px solid hsla(197,3%,49%,.7);
+}
+.block_select_text_undo {
+  color: #fff;
+  fill: #fff;
+}
+.screen_btn>li>.btn_v2 {
+  background: linear-gradient(90deg,#dfd3ad 0,#c5bc9e);
+}
+.autocomplete_link {
+  color: #35383a;
+}
+.autocomplete_link_main {
+  color: #d5d5d5;
+}
+.glass_block_zoom>svg {
+  fill: #d5d5d5;
+}
+.sale_bonus{
+  color: #bababa;
+}
+.sale_bonus span{
+  color: #d7c78f;
+}
+.sale_payment_text{
+  color: #fff;
+  background: rgba(217,217,217, .2);
+}
+.sale_text{
+  color: #b9b9b9;
+}
+.sale_text span{
+  color: #d7c78f;
+}
+.sale_close{
+  fill: #9f9f9f;
+}
+.sale_close:hover{
+  fill: #fff
+}
+.sale_close_g2a{
+  fill: #9f9f9f;
+}
+.sale_close_g2a:hover{
+  fill: #fff;
+}
+.sale_g2a_container{
+  color: #fff;
+}
+.sale_g2a_bonus{
+  color: #ffeca9;
+}
+.sale_g2a_background{
+  background: #555e63;
+}
+.svg_money_gan{
+  fill: #555e63;
+}
+.svg_g2a_a {
+  fill:#0084C1;
+}
+.svg_g2a_2{
+  fill:#555E63;
+}
+.svg_g2a_g{
+  fill:#F05F00;
+}
+.ip_list {
+  color: #decd93;
+}
+.ip_stickers_wear {
+  color: #e6e6e6;
+}
+.sale_bonus_text {
+  color: #fffefe;
+}
+.sale_close_img {
+  fill: #6f7078;
+}
+.sell_link_copied{
+  color: #decd93;
+}
+.item_image svg {
+  fill: url(#GradientAdvantagesDark);
+}
+.big_choise_gradient{
+  fill: url(#GradientAdvantagesDarkChoise);
+}
+.multi_trade_text svg{
+  fill: #cecece;
+}
+.unavaliable_text_common a{
+  color: #decd93;
+}
+.unavaliable_text_common a:hover{
+  text-decoration: none;
+}
+.modal_trade_col .btn_v2 {
+  background: linear-gradient(90deg,#99b1ad 0,#7d9591);
+}
+.modal_trade_col .skin_list_text{
+  color: #2b2a28;
+  background: linear-gradient(90deg,#c3c5ca,#a1a4a9);
+  opacity: .85;
+}
+
+.online_chat_button_notification{
+  background: #e0d8c0;
+  color: #1a1b1e;
+}
+.online_chat_button{
+  background: linear-gradient(90deg,#decd93 0,#ac9f74);
+}
+.online_chat_button > svg{
+  fill: #32393c;
+}
+.online_chat_container{
+  background: #f6f3f6;
+}
+.online_chat_header{
+  background: linear-gradient(to right, #ddcc92 0%, #c9ba86 100%);
+}
+.online_chat_header_search_prev > svg{
+  fill: #1a1b1e;
+}
+.online_chat_header_search_prev:hover > svg{
+  fill: #1a1b1e;
+}
+.online_chat_header_search > input{
+  color: #1a1b1e;
+}
+.online_chat_header_search > input::-webkit-input-placeholder {
+  color: #1a1b1e;
+}
+.online_chat_header_search > input::-moz-placeholder {
+  color: #1a1b1e;
+}
+.online_chat_faq_search > input::-webkit-input-placeholder{
+  opacity: .4;
+}
+.support_search svg{
+  fill: #1a1b1e;
+}
+.support_search:hover svg{
+  fill: #000;
+}
+.avatar_support_circle{
+  background: #5db94b;
+}
+.avatar_name_container{
+  color: #1a1b1e;
+}
+.avatar_name > svg{
+  fill: #1a1b1e;
+}
+.clock_support_img{
+  fill: #1a1b1e;
+}
+.cloud_support_img{
+  fill: #1a1b1e;
+}
+.control_button_close svg {
+  fill: #1a1b1e;
+}
+.online_chat_header_faq{
+  color: #302f2b;
+}
+.online_rating_subtitle{
+  color: #726f5f;
+  fill: #726f5f;
+}
+.online_chat_field_rating{
+  background: linear-gradient(to right, rgba(147, 136, 96, 0.08) 0%,
+  rgba(214, 211, 115, 0.08) 100%);
+}
+.online_rating_title{
+  color: #222222;
+}
+.calendar_img:hover{
+  fill: #32393c;
+}
+.input_text_calendar_button > svg:hover{
+  fill: #32393c;
+}
+.font_avatar{
+  color: rgba(0,0,0, .6);
+}
+.online_chat_subtitle{
+  background: #57517f;
+  background: linear-gradient(to right, #dccb91 0%, #c9ba86 100%);
+}
+.online_chat_menu{
+  background: linear-gradient(to right, rgba(147, 136, 96, 0.08) 0%,
+  rgba(214, 211, 115, 0.08) 100%);
+}
+.online_chat_item{
+  color: rgba(114,111,95, .6);
+}
+.online_chat_item:hover{
+  color: rgb(114, 111, 95);
+}
+.online_chat_item.active{
+  color: rgb(114, 111, 95);
+}
+.online_chat_subtitle_delimiter{
+  background-color: rgba(0,0,0, .6);
+}
+.online_chat_time{
+  color: #1a1b1e;
+}
+.online_chat_data{
+  color: #969398;
+}
+.online_chat_field::-webkit-scrollbar-thumb{
+  background: #decd93;
+}
+.message_container.highlight{
+  background-color: rgb(180, 180, 215);
+}
+.message_support{
+  background: #e6e1ea;
+}
+.message_support_text{
+  color: #54495a;
+}
+.message_support_text a{
+  color: #0bac9c;
+}
+.message_user{
+  box-shadow: 3px 4px 15px 0px rgba(125, 124, 114, 0.4);
+  background: #32393c;
+}
+.message_user_data{
+  color: rgba(255,254,255, .6);
+}
+.message_user_text{
+  color: #ffffff;
+}
+.message_user_text a{
+  color: #5bdccf;
+}
+.message_user_view{
+  color: #a9a8a9;
+}
+.online_chat_loading_text{
+  color: #a9a8a9;
+}
+.online_chat_loading_line{
+  background: linear-gradient(to right, #686194 0%, #a36a98 100%);
+}
+.online_chat_img_modal .img_ref{
+  color: #678fa8;
+}
+.input_text_chat{
+  background: #ffffff;
+}
+.input_text_chat a{
+  color: #0bac9c;
+}
+.input_text_chat::-webkit-scrollbar-thumb{
+  background: #b9acc1;
+}
+.input_text_smile_container{
+  color: #000;
+}
+.input_text_smile_container > svg{
+  fill: #bcbcbc;
+}
+.input_text_smile_container:hover > svg{
+  fill: #32393c;
+}
+.input_text_smile_container.active > svg{
+  fill: #32393c;
+}
+.emoji_container{
+  background: #fff;
+}
+.emoji_triangle{
+  border-top: 7px solid #fff;
+}
+.emoji_container::-webkit-scrollbar-thumb{
+  background: #b9acc1;
+}
+.input_text_loading_file:hover svg{
+  fill: #32393c;
+}
+.input_text_loading_file svg{
+  fill: #bcbcbc;
+}
+.input_text_loading_message > svg{
+  fill: #bcbcbc;
+}
+.input_text_loading_message:hover > svg{
+  fill: #32393c;
+}
+.online_chat_active{
+  background: rgba(247,243,247, .7);
+}
+.online_chat_drop{
+  border: 2px dashed #716b8f;
+}
+.online_chat_drop_text{
+  color: #6a5972;
+}
+.online_chat_calendar_head{
+  background: #cabb86;
+}
+.online_chat_calendar_head svg{
+  fill: rgba(0,0,0, .8);
+}
+.online_chat_calendar_prev:hover > svg{
+  fill: #fff;
+}
+.online_chat_calendar_next:hover > svg{
+  fill: #fff;
+}
+.online_chat_calendar_head_text{
+  color: #000;
+}
+.col:after{
+  background: #cabb86;
+}
+.row_table_header{
+  color: #ac9f74;
+}
+.table_calendar{
+  background: #ffffff;
+}
+.col_active{
+  background: #cd7a9e;
+}
+.online_chat_faq_title{
+  color: #35383a;
+}
+.online_chat_faq_title:hover{
+  color: #cabb87;
+}
+.online_chat_faq_title:hover >svg{
+  fill: #cabb87;
+}
+.online_chat_feedback_item{
+  color: #54495a;
+}
+.online_chat_feedback_title{
+  color: #222222;
+}
+.online_chat_feedback_item > svg{
+  fill: #d4cfd5;
+}
+.online_chat_feedback_item:hover{
+  color: #cd7a9e;
+}
+.message_user_data svg{
+  fill: rgba(255,254,255, .6);
+}
+.online_chat_feedback_item:hover > svg{
+  fill: #cd7a9e;
+}
+.online_chat_feedback_item.active{
+  color: #cd7a9e;
+}
+.online_chat_feedback_item.active > svg{
+  fill: #cd7a9e;
+}
+.input_text_feedback:hover{
+  color: #c86993;
+}
+
+.ip_price_g2a{
+  color: rgba(0,0,0, .8);
+  background: linear-gradient(90deg,#bbaf86 0,#968d6e);
+  font-weight: 600;
+}
+.ip_price_g2a span{
+  color: #000;
+}
+.modal_subtitle_trade >svg{
+  fill: #d6c58e;
+}
+.sale_payment .sale_payment_qiwi{
+  fill: #fff;
+}
+.modal_subtitle_trade a:after{
+  background: hsla(46,53%,72%,.6);
+}
+@media (max-width:1400px) {
+  .screen {
+    background: url(../../images/screen_dark_tablet.png?v=11) 50% 100% no-repeat;
+  }
+}
+@media (max-width:600px) {
+  .screen {
+    background: url(../../images/screen_dark_mobile.png?v=11) 50% 100% no-repeat;
+  }
+}
+@media (-ms-high-contrast:active),(-ms-high-contrast:none) {
+  .unavaliable_text_common a {
+    color: #e6e6e6;
+  }
+  .balance_title_subtitle_text {
+    background: transparent;
+    -webkit-background-clip: content;
+    -webkit-text-fill-color: transparent;
+  }
+  .roll_panel_btn_showed:hover {
+    color: #fff;
+  }
+  .block_info_steps .step_number span,.rates_item .item_value {
+    background: transparent;
+    -webkit-background-clip: content;
+    -webkit-text-fill-color: transparent;
+  }
+  .rates_item .item_value {
+    color: #e6e6e6;
+  }
+  .roll_panel_btn_showed,.sidebar_link>div,.sidebar_link>div:hover {
+    background: transparent;
+    -webkit-background-clip: content;
+    -webkit-text-fill-color: transparent;
+  }
+  .roll_panel_btn_showed {
+    color: #e6e6e6;
+  }
+  .roll_panel_btn_hidden,.roll_panel_btn_showed:hover {
+    background: transparent;
+    -webkit-background-clip: content;
+    -webkit-text-fill-color: transparent;
+  }
+  .bonus_title>div,.bonus_title_text {
+    background: transparent;
+    color: #e6e6e6;
+    -webkit-background-clip: content;
+    -webkit-text-fill-color: transparent;
+  }
+  .bonus_title span {
+    color: #fff;
+  }
+  .block_info_steps .step_number>div>span {
+    background: transparent;
+    display: block;
+    -webkit-background-clip: content;
+    -webkit-text-fill-color: transparent;
+  }
+  
+}
